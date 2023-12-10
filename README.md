@@ -29,7 +29,7 @@ Update the following variables in `auto_login.py` with your specific information
 
 ## Running the Script
 
-### Linux
+### Windows
 
 ```bash
 python3 auto_login.py
